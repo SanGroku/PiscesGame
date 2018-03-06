@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="InstuctionLbl.Text" xml:space="preserve">
+    <value>Each zodiac group represents a village of fishermen and all the villages are fishing from a shared common lake to survive. Each village has a single fishing boat and on each turn, can harvest fish from the common lake. The boat capacity is equal to number of people playing the game (e.g., if there are 30 people playing in the class, then a village can take up to 30 fish from the common lake per round). At the end of each round of play (i.e., once every zodiac village has had a turn to harvest), reproduction occurs in the common lake. Reproduction increases the fish population in the lake by as much as 30% or as little as zero, depending upon the current fish population and carrying capacity of the lake (which varies depending on the number of players in the game). The reproduction function is parabolic, which means that the reproduction rate is highest when it is at about half capacity (also known as maximum sustainable yield or MSY) and decreases when the lake’s population is close to empty or close to the carrying capacity.
+
+Villages have four options for the fish they harvest:
+
+1) In order to stay alive, each group must eat at least 4 fish per person in their group every turn (i.e., if you have 2 villagers to feed, you need 8 to eat 8 fish per harvest). Fish eaten go towards each individual’s grade; one fish eaten equals one grade point. Note that if a group cannot eat 4 fish per person then they must decide which member(s) of the group will “die” and will no longer be able to play OR appeal to other groups to share (see option 4). An individual’s final grade is the sum of all the fish they ate in previous rounds.
+
+2) The group can also use fish (i.e. capital) that they harvested from the common lake to build a private fish pond.
+
+Hence, the private pond can only hold a small quantity of fish with initial investments, but the size of the pond increases rapidly after significant investments are made.
+
+3) The group must also stock their pond with fish that they harvest from the common lake. Fish in your private pond reproduce at a 30% rate, up to the carrying capacity of the pond. Note that the number of fish in the private pond cannot exceed the pond’s carrying capacity. The benefits of the private pond are that no other group can extract fish out of a group’s pond and, unlike the common lake, the reproduction rate in the pond remains stable due to a lack of predation and disease. Also, there is no limitation to how many fish a group can take out of their own private pond in one round.
+
+4) Groups can also share their fish with other groups, if they desire, but fish can only be transferred to groups that have yet to harvest in the current round. We call this the ‘pay-it-forward rule’ and introduces a challenge for some popular strategies (i.e., collective fish pond ownership). Villages report their decisions to the class on each turn in a consistent manner that corresponds to the spreadsheet for ease of data entry. If a village fails to report their decisions to the instructor in the time allotted, the harvest order is updated so that the delinquent village goes last in the current and all subsequent rounds of play.
+
+The remaining population of fish in the common lake is calculated and announced after each full round of play by the instructor. If teams harvest fish in the common lake to extinction, the game can continue only for teams that have enough fish in their private ponds to eat the required four fish per person. The game ends after eight full rounds of play, or when there are no villages left “alive.”</value>
+  </data>
+</root>

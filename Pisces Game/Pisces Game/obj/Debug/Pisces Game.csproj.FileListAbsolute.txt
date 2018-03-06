@@ -1,0 +1,24 @@
+C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\Pisces Game\Pisces Game\bin\Debug\Pisces Game.exe.config
+C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\Pisces Game\Pisces Game\bin\Debug\Pisces Game.exe
+C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\Pisces Game\Pisces Game\bin\Debug\Pisces Game.pdb
+C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csprojResolveAssemblyReference.cache
+C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Instructions.resources
+C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.StartMenu.resources
+C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Properties.Resources.resources
+C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csproj.GenerateResource.Cache
+C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csproj.CoreCompileInputs.cache
+C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.exe
+C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.pdb
+C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Round1.resources
+I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\bin\Debug\Pisces Game.exe.config
+I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\bin\Debug\Pisces Game.exe
+I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\bin\Debug\Pisces Game.pdb
+I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csprojResolveAssemblyReference.cache
+I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Instructions.resources
+I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Round1.resources
+I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.StartMenu.resources
+I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Properties.Resources.resources
+I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csproj.GenerateResource.Cache
+I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csproj.CoreCompileInputs.cache
+I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.exe
+I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.pdb
