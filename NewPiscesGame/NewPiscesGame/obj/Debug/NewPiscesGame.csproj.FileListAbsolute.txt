@@ -1,0 +1,7 @@
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\NewPiscesGame\NewPiscesGame\obj\Debug\NewPiscesGame.csprojResolveAssemblyReference.cache
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\NewPiscesGame\NewPiscesGame\obj\Debug\NewPiscesGame.csproj.CoreCompileInputs.cache
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\NewPiscesGame\NewPiscesGame\bin\Debug\NewPiscesGame.exe.config
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\NewPiscesGame\NewPiscesGame\bin\Debug\NewPiscesGame.exe
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\NewPiscesGame\NewPiscesGame\bin\Debug\NewPiscesGame.pdb
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\NewPiscesGame\NewPiscesGame\obj\Debug\NewPiscesGame.exe
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\NewPiscesGame\NewPiscesGame\obj\Debug\NewPiscesGame.pdb
