@@ -22,3 +22,16 @@ I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.c
 I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csproj.CoreCompileInputs.cache
 I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.exe
 I:\Sophomore Year  2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.pdb
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\bin\Debug\Pisces Game.exe.config
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\bin\Debug\Pisces Game.exe
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\bin\Debug\Pisces Game.pdb
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csprojResolveAssemblyReference.cache
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Instructions.resources
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Round1.resources
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Round1Summary.resources
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.StartMenu.resources
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Properties.Resources.resources
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csproj.GenerateResource.Cache
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csproj.CoreCompileInputs.cache
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.exe
+C:\Users\athen_000\Documents\School Folder\Sophomore year 2017-2018\SIM\Pisces Game\Pisces Game\obj\Debug\Pisces Game.pdb

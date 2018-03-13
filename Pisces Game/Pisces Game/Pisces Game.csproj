@@ -77,6 +77,9 @@
     <EmbeddedResource Include="Round1.resx">
       <DependentUpon>Round1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Round1Summary.resx">
+      <DependentUpon>Round1Summary.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="StartMenu.resx">
       <DependentUpon>StartMenu.cs</DependentUpon>
     </EmbeddedResource>
