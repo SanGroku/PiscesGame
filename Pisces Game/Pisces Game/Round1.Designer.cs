@@ -56,9 +56,9 @@
             this.showZodiacLbl.Font = new System.Drawing.Font("Rockwell", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.showZodiacLbl.Location = new System.Drawing.Point(421, 114);
             this.showZodiacLbl.Name = "showZodiacLbl";
-            this.showZodiacLbl.Size = new System.Drawing.Size(85, 29);
+            this.showZodiacLbl.Size = new System.Drawing.Size(232, 29);
             this.showZodiacLbl.TabIndex = 2;
-            this.showZodiacLbl.Text = "label1";
+            this.showZodiacLbl.Text = "Here be the zodiac";
             this.showZodiacLbl.Visible = false;
             // 
             // PromptLbl
@@ -73,7 +73,7 @@
             // 
             // eatFishBtn
             // 
-            this.eatFishBtn.Location = new System.Drawing.Point(467, 220);
+            this.eatFishBtn.Location = new System.Drawing.Point(467, 222);
             this.eatFishBtn.Name = "eatFishBtn";
             this.eatFishBtn.Size = new System.Drawing.Size(100, 20);
             this.eatFishBtn.TabIndex = 5;
@@ -100,9 +100,9 @@
             this.eatFishLbl.Font = new System.Drawing.Font("Rockwell", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.eatFishLbl.Location = new System.Drawing.Point(269, 263);
             this.eatFishLbl.Name = "eatFishLbl";
-            this.eatFishLbl.Size = new System.Drawing.Size(68, 23);
+            this.eatFishLbl.Size = new System.Drawing.Size(117, 23);
             this.eatFishLbl.TabIndex = 7;
-            this.eatFishLbl.Text = "label1";
+            this.eatFishLbl.Text = "Eat the fish";
             this.eatFishLbl.Visible = false;
             // 
             // round1EndBtn
@@ -121,7 +121,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DeepSkyBlue;
-            this.ClientSize = new System.Drawing.Size(984, 761);
+            this.ClientSize = new System.Drawing.Size(984, 749);
             this.Controls.Add(this.round1EndBtn);
             this.Controls.Add(this.eatFishLbl);
             this.Controls.Add(this.eatFishBox);
