@@ -12,10 +12,12 @@ namespace Pisces_Game
 {
     public partial class Round1Summary : Form
     {
+        public int totalFishInLake = 403;    //How many fish are in communal lake
+
         //Create values for each sign
-        public int AriesFish;
-        public int TaurusFish;
-        public int GeminiFish;
+        public int AriesFish = 8;
+        public int TaurusFish = 10;
+        public int GeminiFish = 12;
         public int CancerFish;
         public int LeoFish;
         public int VirgoFish;
@@ -26,9 +28,12 @@ namespace Pisces_Game
         public int AquariusFish;
         public int PiscesFish;
 
+        public int TotalCompFish;
+
         public Round1Summary()
         {
             InitializeComponent();
+            DisplayFish();
         }
 
         //Insert random somewhere in here
@@ -59,39 +64,40 @@ namespace Pisces_Game
             //Figures out which sign the player is
             if (Instructions.playerZodiacSign == "Aries")
             {
-                Round1.playerFishTaken = AriesFish;
+                AriesFish = Round1.playerFishTaken;
             }
             if (Instructions.playerZodiacSign == "Taurus")
             {
-                Round1.playerFishTaken = TaurusFish;
+                TaurusFish = Round1.playerFishTaken;
             }
             if (Instructions.playerZodiacSign == "Gemini")
             {
-                Round1.playerFishTaken = GeminiFish;
+                GeminiFish = Round1.playerFishTaken;
             }
             if (Instructions.playerZodiacSign == "Cancer")
             {
-                Round1.playerFishTaken = CancerFish;
+                CancerFish = Round1.playerFishTaken;
             }
             if (Instructions.playerZodiacSign == "Leo")
             {
-                Round1.playerFishTaken = LeoFish;
+                LeoFish = Round1.playerFishTaken;
             }
             if (Instructions.playerZodiacSign == "Virgo")
             {
-                Round1.playerFishTaken = VirgoFish;
+                VirgoFish = Round1.playerFishTaken;
             }
             if (Instructions.playerZodiacSign == "Libra")
             {
-                Round1.playerFishTaken = LibraFish;
+                LibraFish = Round1.playerFishTaken;
             }
             if (Instructions.playerZodiacSign == "Scorpio")
             {
-                Round1.playerFishTaken = ScorpioFish;
+                ScorpioFish = Round1.playerFishTaken;
             }
             if (Instructions.playerZodiacSign == "Sagittarius")
             {
-                Round1.playerFishTaken = SagittariusFish;
+                
+                SagittariusFish = Round1.playerFishTaken;
             }
             if (Instructions.playerZodiacSign == "Capricorn")
             {
@@ -99,11 +105,11 @@ namespace Pisces_Game
             }
             if (Instructions.playerZodiacSign == "Aquarius")
             {
-                Round1.playerFishTaken = AquariusFish;
+                AquariusFish = Round1.playerFishTaken;
             }
             if (Instructions.playerZodiacSign == "Pisces")
             {
-                Round1.playerFishTaken = PiscesFish;
+                PiscesFish = Round1.playerFishTaken;
             }
         }
 
@@ -126,11 +132,20 @@ namespace Pisces_Game
             AquaFishLbl.Text = Convert.ToString(AquariusFish);
             PiscFishLbl.Text = Convert.ToString(PiscesFish);
 
+            TotalFishInPond();
         }
 
         public void TotalFishInPond()
         {
-            Round1.totalFishInLake = Round1.totalFishInLake - (AriesFish + TaurusFish + GeminiFish + CancerFish + LeoFish + VirgoFish + LibraFish + ScorpioFish + SagittariusFish + CapricornFish + AquariusFish + PiscesFish);
+            //Add all the comp fish
+            TotalCompFish = AriesFish + TaurusFish + GeminiFish + CancerFish + LeoFish + VirgoFish + LibraFish + ScorpioFish + SagittariusFish + CapricornFish + AquariusFish + PiscesFish;
+
+            //Subtracts fish from total
+            totalFishInLake -= TotalCompFish;
+
+            //Gets the total
+            totalFishInLake += (Convert.ToInt32(0.3) * totalFishInLake);
+            TotalFishLbl.Text = Convert.ToString(totalFishInLake);
         }
 
         private void ContinueBtn_Click(object sender, EventArgs e)

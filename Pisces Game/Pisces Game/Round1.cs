@@ -14,7 +14,6 @@ namespace Pisces_Game
     {
         public static int totalPlayers = 12;        //How many people are playing
         public static int playerFishTaken;
-        public static int totalFishInLake = 403;    //How many fish are in communal lake
 
         public Round1()
         {
@@ -33,9 +32,8 @@ namespace Pisces_Game
             }
             else if (eatFishBox.Value > 4)
             {
-                eatFishBox.Value = playerFishTaken;
                 eatFishLbl.Visible = true;
-                eatFishLbl.Text = playerFishTaken.ToString();
+                eatFishLbl.Text = "You ate more than enough to survive";
                 eatFishBtn.Visible = false;
                 
             }
@@ -49,13 +47,9 @@ namespace Pisces_Game
                 eatFishLbl.Visible = true;
                 eatFishLbl.Text = "You ate enough to survive.";
                 eatFishBtn.Visible = false;
-                eatFishBox.Value = playerFishTaken;
+                
             }
-        }
-
-        public void calculatePlayerFishTaken()
-        {
-            totalFishInLake = totalFishInLake - playerFishTaken;
+            playerFishTaken = Convert.ToInt32(eatFishBox.Value);
         }
 
         private void round1EndBtn_Click(object sender, EventArgs e)
