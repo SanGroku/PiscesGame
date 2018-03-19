@@ -75,7 +75,7 @@
             // 
             this.AriesLbl.AutoSize = true;
             this.AriesLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AriesLbl.Location = new System.Drawing.Point(118, 120);
+            this.AriesLbl.Location = new System.Drawing.Point(118, 157);
             this.AriesLbl.Name = "AriesLbl";
             this.AriesLbl.Size = new System.Drawing.Size(85, 28);
             this.AriesLbl.TabIndex = 3;
@@ -85,7 +85,7 @@
             // 
             this.TaurusLbl.AutoSize = true;
             this.TaurusLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TaurusLbl.Location = new System.Drawing.Point(112, 179);
+            this.TaurusLbl.Location = new System.Drawing.Point(112, 216);
             this.TaurusLbl.Name = "TaurusLbl";
             this.TaurusLbl.Size = new System.Drawing.Size(114, 28);
             this.TaurusLbl.TabIndex = 4;
@@ -95,7 +95,7 @@
             // 
             this.GeminiLbl.AutoSize = true;
             this.GeminiLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.GeminiLbl.Location = new System.Drawing.Point(109, 239);
+            this.GeminiLbl.Location = new System.Drawing.Point(109, 276);
             this.GeminiLbl.Name = "GeminiLbl";
             this.GeminiLbl.Size = new System.Drawing.Size(117, 28);
             this.GeminiLbl.TabIndex = 5;
@@ -105,7 +105,7 @@
             // 
             this.CancerLbl.AutoSize = true;
             this.CancerLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CancerLbl.Location = new System.Drawing.Point(109, 303);
+            this.CancerLbl.Location = new System.Drawing.Point(109, 340);
             this.CancerLbl.Name = "CancerLbl";
             this.CancerLbl.Size = new System.Drawing.Size(115, 28);
             this.CancerLbl.TabIndex = 6;
@@ -115,7 +115,7 @@
             // 
             this.LeoLbl.AutoSize = true;
             this.LeoLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LeoLbl.Location = new System.Drawing.Point(118, 368);
+            this.LeoLbl.Location = new System.Drawing.Point(118, 405);
             this.LeoLbl.Name = "LeoLbl";
             this.LeoLbl.Size = new System.Drawing.Size(64, 28);
             this.LeoLbl.TabIndex = 7;
@@ -125,7 +125,7 @@
             // 
             this.VirgoLbl.AutoSize = true;
             this.VirgoLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.VirgoLbl.Location = new System.Drawing.Point(118, 427);
+            this.VirgoLbl.Location = new System.Drawing.Point(118, 464);
             this.VirgoLbl.Name = "VirgoLbl";
             this.VirgoLbl.Size = new System.Drawing.Size(90, 28);
             this.VirgoLbl.TabIndex = 8;
@@ -135,7 +135,7 @@
             // 
             this.LibraLbl.AutoSize = true;
             this.LibraLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LibraLbl.Location = new System.Drawing.Point(531, 120);
+            this.LibraLbl.Location = new System.Drawing.Point(531, 157);
             this.LibraLbl.Name = "LibraLbl";
             this.LibraLbl.Size = new System.Drawing.Size(89, 28);
             this.LibraLbl.TabIndex = 9;
@@ -145,7 +145,7 @@
             // 
             this.ScorpioLbl.AutoSize = true;
             this.ScorpioLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ScorpioLbl.Location = new System.Drawing.Point(531, 179);
+            this.ScorpioLbl.Location = new System.Drawing.Point(531, 216);
             this.ScorpioLbl.Name = "ScorpioLbl";
             this.ScorpioLbl.Size = new System.Drawing.Size(122, 28);
             this.ScorpioLbl.TabIndex = 10;
@@ -155,7 +155,7 @@
             // 
             this.SagLbl.AutoSize = true;
             this.SagLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.SagLbl.Location = new System.Drawing.Point(531, 239);
+            this.SagLbl.Location = new System.Drawing.Point(531, 276);
             this.SagLbl.Name = "SagLbl";
             this.SagLbl.Size = new System.Drawing.Size(171, 28);
             this.SagLbl.TabIndex = 11;
@@ -165,7 +165,7 @@
             // 
             this.CapLbl.AutoSize = true;
             this.CapLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CapLbl.Location = new System.Drawing.Point(531, 303);
+            this.CapLbl.Location = new System.Drawing.Point(531, 340);
             this.CapLbl.Name = "CapLbl";
             this.CapLbl.Size = new System.Drawing.Size(158, 28);
             this.CapLbl.TabIndex = 12;
@@ -175,7 +175,7 @@
             // 
             this.AquaLbl.AutoSize = true;
             this.AquaLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AquaLbl.Location = new System.Drawing.Point(531, 368);
+            this.AquaLbl.Location = new System.Drawing.Point(531, 405);
             this.AquaLbl.Name = "AquaLbl";
             this.AquaLbl.Size = new System.Drawing.Size(143, 28);
             this.AquaLbl.TabIndex = 13;
@@ -185,7 +185,7 @@
             // 
             this.PiscesLbl.AutoSize = true;
             this.PiscesLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.PiscesLbl.Location = new System.Drawing.Point(531, 427);
+            this.PiscesLbl.Location = new System.Drawing.Point(531, 464);
             this.PiscesLbl.Name = "PiscesLbl";
             this.PiscesLbl.Size = new System.Drawing.Size(106, 28);
             this.PiscesLbl.TabIndex = 14;
@@ -195,7 +195,7 @@
             // 
             this.AriesFishLbl.AutoSize = true;
             this.AriesFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AriesFishLbl.Location = new System.Drawing.Point(305, 120);
+            this.AriesFishLbl.Location = new System.Drawing.Point(305, 157);
             this.AriesFishLbl.Name = "AriesFishLbl";
             this.AriesFishLbl.Size = new System.Drawing.Size(29, 28);
             this.AriesFishLbl.TabIndex = 15;
@@ -205,7 +205,7 @@
             // 
             this.TaurusFishLbl.AutoSize = true;
             this.TaurusFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TaurusFishLbl.Location = new System.Drawing.Point(305, 179);
+            this.TaurusFishLbl.Location = new System.Drawing.Point(305, 216);
             this.TaurusFishLbl.Name = "TaurusFishLbl";
             this.TaurusFishLbl.Size = new System.Drawing.Size(29, 28);
             this.TaurusFishLbl.TabIndex = 16;
@@ -215,7 +215,7 @@
             // 
             this.GemFishLbl.AutoSize = true;
             this.GemFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.GemFishLbl.Location = new System.Drawing.Point(305, 239);
+            this.GemFishLbl.Location = new System.Drawing.Point(305, 276);
             this.GemFishLbl.Name = "GemFishLbl";
             this.GemFishLbl.Size = new System.Drawing.Size(29, 28);
             this.GemFishLbl.TabIndex = 17;
@@ -225,7 +225,7 @@
             // 
             this.CanFishLbl.AutoSize = true;
             this.CanFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CanFishLbl.Location = new System.Drawing.Point(305, 303);
+            this.CanFishLbl.Location = new System.Drawing.Point(305, 340);
             this.CanFishLbl.Name = "CanFishLbl";
             this.CanFishLbl.Size = new System.Drawing.Size(29, 28);
             this.CanFishLbl.TabIndex = 18;
@@ -235,7 +235,7 @@
             // 
             this.LeoFishLbl.AutoSize = true;
             this.LeoFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LeoFishLbl.Location = new System.Drawing.Point(305, 368);
+            this.LeoFishLbl.Location = new System.Drawing.Point(305, 405);
             this.LeoFishLbl.Name = "LeoFishLbl";
             this.LeoFishLbl.Size = new System.Drawing.Size(29, 28);
             this.LeoFishLbl.TabIndex = 19;
@@ -245,7 +245,7 @@
             // 
             this.VirFishLbl.AutoSize = true;
             this.VirFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.VirFishLbl.Location = new System.Drawing.Point(305, 427);
+            this.VirFishLbl.Location = new System.Drawing.Point(305, 464);
             this.VirFishLbl.Name = "VirFishLbl";
             this.VirFishLbl.Size = new System.Drawing.Size(29, 28);
             this.VirFishLbl.TabIndex = 20;
@@ -255,7 +255,7 @@
             // 
             this.LibFishLbl.AutoSize = true;
             this.LibFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.LibFishLbl.Location = new System.Drawing.Point(792, 120);
+            this.LibFishLbl.Location = new System.Drawing.Point(792, 157);
             this.LibFishLbl.Name = "LibFishLbl";
             this.LibFishLbl.Size = new System.Drawing.Size(29, 28);
             this.LibFishLbl.TabIndex = 21;
@@ -265,7 +265,7 @@
             // 
             this.ScorFishLbl.AutoSize = true;
             this.ScorFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.ScorFishLbl.Location = new System.Drawing.Point(792, 179);
+            this.ScorFishLbl.Location = new System.Drawing.Point(792, 216);
             this.ScorFishLbl.Name = "ScorFishLbl";
             this.ScorFishLbl.Size = new System.Drawing.Size(29, 28);
             this.ScorFishLbl.TabIndex = 22;
@@ -275,7 +275,7 @@
             // 
             this.SagFishLbl.AutoSize = true;
             this.SagFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.SagFishLbl.Location = new System.Drawing.Point(792, 239);
+            this.SagFishLbl.Location = new System.Drawing.Point(792, 276);
             this.SagFishLbl.Name = "SagFishLbl";
             this.SagFishLbl.Size = new System.Drawing.Size(29, 28);
             this.SagFishLbl.TabIndex = 23;
@@ -285,7 +285,7 @@
             // 
             this.CapFishLbl.AutoSize = true;
             this.CapFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CapFishLbl.Location = new System.Drawing.Point(792, 303);
+            this.CapFishLbl.Location = new System.Drawing.Point(792, 340);
             this.CapFishLbl.Name = "CapFishLbl";
             this.CapFishLbl.Size = new System.Drawing.Size(29, 28);
             this.CapFishLbl.TabIndex = 24;
@@ -295,7 +295,7 @@
             // 
             this.AquaFishLbl.AutoSize = true;
             this.AquaFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.AquaFishLbl.Location = new System.Drawing.Point(792, 368);
+            this.AquaFishLbl.Location = new System.Drawing.Point(792, 405);
             this.AquaFishLbl.Name = "AquaFishLbl";
             this.AquaFishLbl.Size = new System.Drawing.Size(29, 28);
             this.AquaFishLbl.TabIndex = 25;
@@ -305,7 +305,7 @@
             // 
             this.PiscFishLbl.AutoSize = true;
             this.PiscFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.PiscFishLbl.Location = new System.Drawing.Point(792, 427);
+            this.PiscFishLbl.Location = new System.Drawing.Point(792, 464);
             this.PiscFishLbl.Name = "PiscFishLbl";
             this.PiscFishLbl.Size = new System.Drawing.Size(29, 28);
             this.PiscFishLbl.TabIndex = 26;
@@ -315,7 +315,7 @@
             // 
             this.FishTakenLbl.AutoSize = true;
             this.FishTakenLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.FishTakenLbl.Location = new System.Drawing.Point(307, 77);
+            this.FishTakenLbl.Location = new System.Drawing.Point(307, 101);
             this.FishTakenLbl.Name = "FishTakenLbl";
             this.FishTakenLbl.Size = new System.Drawing.Size(330, 28);
             this.FishTakenLbl.TabIndex = 27;
@@ -325,7 +325,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(289, 531);
+            this.label1.Location = new System.Drawing.Point(289, 549);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(282, 28);
             this.label1.TabIndex = 28;
@@ -335,7 +335,7 @@
             // 
             this.TotalFishLbl.AutoSize = true;
             this.TotalFishLbl.Font = new System.Drawing.Font("Rockwell Extra Bold", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.TotalFishLbl.Location = new System.Drawing.Point(577, 531);
+            this.TotalFishLbl.Location = new System.Drawing.Point(577, 549);
             this.TotalFishLbl.Name = "TotalFishLbl";
             this.TotalFishLbl.Size = new System.Drawing.Size(29, 28);
             this.TotalFishLbl.TabIndex = 29;

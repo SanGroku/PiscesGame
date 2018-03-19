@@ -117,19 +117,4 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="InstuctionLbl.Text" xml:space="preserve">
-    <value>Each zodiac group represents a village of fishermen and all the villages are fishing from a shared common lake to survive. Each village has a single fishing boat and on each turn, can harvest fish from the common lake. The boat capacity is equal to number of people playing the game (e.g., if there are 30 people playing, then a village can take up to 30 fish from the common lake per round). At the end of each round of play (i.e., once every zodiac village has had a turn to harvest), reproduction occurs in the common lake. Reproduction increases the fish population in the lake by as much as 30% or as little as zero, depending upon the current fish population and carrying capacity of the lake (which varies depending on the number of players in the game). The reproduction function is parabolic, which means that the reproduction rate is highest when it is at about half capacity (also known as maximum sustainable yield or MSY) and decreases when the lake’s population is close to empty or close to the carrying capacity.
-
-Villages have four options for the fish they harvest:
-
-1) In order to stay alive, each group must eat at least 4 fish per person in their group every turn (i.e., if you have 2 villagers to feed, you need 8 to eat 8 fish per harvest). Fish eaten go towards each individual’s grade; one fish eaten equals one grade point. Note that if a group cannot eat 4 fish per person then they must decide which member(s) of the group will “die” and will no longer be able to play OR appeal to other groups to share (see option 4). An individual’s final grade is the sum of all the fish they ate in previous rounds.
-
-2) The group can also use fish (i.e. capital) that they harvested from the common lake to build a private fish pond.
-
-Hence, the private pond can only hold a small quantity of fish with initial investments, but the size of the pond increases rapidly after significant investments are made.
-
-3) The group must also stock their pond with fish that they harvest from the common lake. Fish in your private pond reproduce at a 30% rate, up to the carrying capacity of the pond. Note that the number of fish in the private pond cannot exceed the pond’s carrying capacity. The benefits of the private pond are that no other group can extract fish out of a group’s pond and, unlike the common lake, the reproduction rate in the pond remains stable due to a lack of predation and disease. Also, there is no limitation to how many fish a group can take out of their own private pond in one round.
-
-The remaining population of fish in the common lake is calculated and announced after each full round of play by the instructor. If teams harvest fish in the common lake to extinction, the game can continue only for teams that have enough fish in their private ponds to eat the required four fish per person. The game ends after eight full rounds of play, or when there are no villages left “alive.”</value>
-  </data>
 </root>

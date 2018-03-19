@@ -63,6 +63,18 @@
     <Compile Include="Round1Summary.Designer.cs">
       <DependentUpon>Round1Summary.cs</DependentUpon>
     </Compile>
+    <Compile Include="Round2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Round2.Designer.cs">
+      <DependentUpon>Round2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Round2Summary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Round2Summary.Designer.cs">
+      <DependentUpon>Round2Summary.cs</DependentUpon>
+    </Compile>
     <Compile Include="StartMenu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -79,6 +91,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Round1Summary.resx">
       <DependentUpon>Round1Summary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Round2.resx">
+      <DependentUpon>Round2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Round2Summary.resx">
+      <DependentUpon>Round2Summary.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="StartMenu.resx">
       <DependentUpon>StartMenu.cs</DependentUpon>

@@ -76,7 +76,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Rockwell", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(371, 603);
+            this.label1.Location = new System.Drawing.Point(371, 592);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(211, 19);
             this.label1.TabIndex = 4;
@@ -117,10 +117,10 @@
             // InstuctionLbl
             // 
             this.InstuctionLbl.BackColor = System.Drawing.Color.Transparent;
-            this.InstuctionLbl.Font = new System.Drawing.Font("Rockwell", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.InstuctionLbl.Location = new System.Drawing.Point(38, 85);
+            this.InstuctionLbl.Font = new System.Drawing.Font("Rockwell", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.InstuctionLbl.Location = new System.Drawing.Point(31, 97);
             this.InstuctionLbl.Name = "InstuctionLbl";
-            this.InstuctionLbl.Size = new System.Drawing.Size(917, 495);
+            this.InstuctionLbl.Size = new System.Drawing.Size(917, 464);
             this.InstuctionLbl.TabIndex = 6;
             this.InstuctionLbl.Text = resources.GetString("InstuctionLbl.Text");
             // 

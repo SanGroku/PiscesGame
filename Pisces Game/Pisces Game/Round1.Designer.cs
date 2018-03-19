@@ -32,10 +32,12 @@
             this.showZodiacLbl = new System.Windows.Forms.Label();
             this.PromptLbl = new System.Windows.Forms.Label();
             this.eatFishBtn = new System.Windows.Forms.Button();
-            this.eatFishBox = new System.Windows.Forms.NumericUpDown();
             this.eatFishLbl = new System.Windows.Forms.Label();
             this.round1EndBtn = new System.Windows.Forms.Button();
+            this.eatFishBox = new System.Windows.Forms.NumericUpDown();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.eatFishBox)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // HeaderLbl
@@ -54,7 +56,7 @@
             // 
             this.showZodiacLbl.AutoSize = true;
             this.showZodiacLbl.Font = new System.Drawing.Font("Rockwell", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.showZodiacLbl.Location = new System.Drawing.Point(421, 114);
+            this.showZodiacLbl.Location = new System.Drawing.Point(414, 102);
             this.showZodiacLbl.Name = "showZodiacLbl";
             this.showZodiacLbl.Size = new System.Drawing.Size(232, 29);
             this.showZodiacLbl.TabIndex = 2;
@@ -81,24 +83,11 @@
             this.eatFishBtn.UseVisualStyleBackColor = true;
             this.eatFishBtn.Click += new System.EventHandler(this.eatFishBtn_Click);
             // 
-            // eatFishBox
-            // 
-            this.eatFishBox.Location = new System.Drawing.Point(389, 222);
-            this.eatFishBox.Maximum = new decimal(new int[] {
-            12,
-            0,
-            0,
-            0});
-            this.eatFishBox.Name = "eatFishBox";
-            this.eatFishBox.Size = new System.Drawing.Size(72, 20);
-            this.eatFishBox.TabIndex = 6;
-            this.eatFishBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
             // eatFishLbl
             // 
             this.eatFishLbl.AutoSize = true;
             this.eatFishLbl.Font = new System.Drawing.Font("Rockwell", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.eatFishLbl.Location = new System.Drawing.Point(269, 263);
+            this.eatFishLbl.Location = new System.Drawing.Point(319, 266);
             this.eatFishLbl.Name = "eatFishLbl";
             this.eatFishLbl.Size = new System.Drawing.Size(117, 23);
             this.eatFishLbl.TabIndex = 7;
@@ -116,12 +105,34 @@
             this.round1EndBtn.UseVisualStyleBackColor = true;
             this.round1EndBtn.Click += new System.EventHandler(this.round1EndBtn_Click);
             // 
+            // eatFishBox
+            // 
+            this.eatFishBox.Location = new System.Drawing.Point(389, 222);
+            this.eatFishBox.Maximum = new decimal(new int[] {
+            12,
+            0,
+            0,
+            0});
+            this.eatFishBox.Name = "eatFishBox";
+            this.eatFishBox.Size = new System.Drawing.Size(72, 20);
+            this.eatFishBox.TabIndex = 6;
+            this.eatFishBox.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(-23, -46);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(100, 50);
+            this.pictureBox1.TabIndex = 9;
+            this.pictureBox1.TabStop = false;
+            // 
             // Round1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DeepSkyBlue;
             this.ClientSize = new System.Drawing.Size(984, 749);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.round1EndBtn);
             this.Controls.Add(this.eatFishLbl);
             this.Controls.Add(this.eatFishBox);
@@ -133,6 +144,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Pisces Game";
             ((System.ComponentModel.ISupportInitialize)(this.eatFishBox)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -144,8 +156,9 @@
         private System.Windows.Forms.Label showZodiacLbl;
         private System.Windows.Forms.Label PromptLbl;
         private System.Windows.Forms.Button eatFishBtn;
-        private System.Windows.Forms.NumericUpDown eatFishBox;
         private System.Windows.Forms.Label eatFishLbl;
         private System.Windows.Forms.Button round1EndBtn;
+        private System.Windows.Forms.NumericUpDown eatFishBox;
+        private System.Windows.Forms.PictureBox pictureBox1;
     }
 }
