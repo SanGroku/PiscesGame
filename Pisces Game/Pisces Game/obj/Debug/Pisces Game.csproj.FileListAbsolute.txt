@@ -63,3 +63,18 @@ C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\PiscesGame-master\Pi
 C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\PiscesGame-master\Pisces Game\Pisces Game\obj\Debug\Pisces Game.pdb
 C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\PiscesGame-master\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Round2.resources
 C:\Users\Glasses Guy\Documents\Sophomore Year 2017-2018\SIM\PiscesGame-master\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Round2Summary.resources
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\bin\Debug\Pisces Game.exe.config
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\bin\Debug\Pisces Game.exe
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\bin\Debug\Pisces Game.pdb
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csprojResolveAssemblyReference.cache
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Instructions.resources
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Round1.resources
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Round1Summary.resources
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Round2.resources
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Round2Summary.resources
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.StartMenu.resources
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\obj\Debug\Pisces_Game.Properties.Resources.resources
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csproj.GenerateResource.Cache
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\obj\Debug\Pisces Game.csproj.CoreCompileInputs.cache
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\obj\Debug\Pisces Game.exe
+E:\Work\2018 Spring\Advanced GES\Project 1\PiscesGame\Pisces Game\Pisces Game\obj\Debug\Pisces Game.pdb
